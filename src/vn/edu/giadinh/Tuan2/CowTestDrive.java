@@ -11,6 +11,11 @@ public class CowTestDrive {
 
         cow = new Cow(5);
         System.out.println("weight: " + cow.weight);
+        
+
+        cow = new Cow(25.5, "Tay Ban Nha", "Đen");
+        System.out.println("weight: " + cow.weight + "Breed: " + cow.breed + "Color: " + cow.color);
+
 
 
 
