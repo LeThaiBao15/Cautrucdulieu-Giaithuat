@@ -24,6 +24,12 @@ public class lab2bai4 {
     }
     static void giaiPTBacI(){
         System.out.println("Trien khai code giai phuong trinh bac I...");
+        float a, b;
+        if(a == 0){
+            if(b == 0){
+                System.out.println("PT vo so nghiem....");
+            }
+        }
     }
     static void giaiPTBacII(){
         System.out.println("Trien khai code giai phuong trinh bac II...");
