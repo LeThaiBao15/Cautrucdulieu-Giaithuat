@@ -12,7 +12,6 @@ public class CowTestDrive {
         cow = new Cow(5);
         System.out.println("weight: " + cow.weight);
 
-        cow.weight = 15;
 
 
     }
